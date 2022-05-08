@@ -1,0 +1,148 @@
+04/29/2022 09:17:46 AM: INFO: ***********login_test***********
+04/29/2022 09:17:59 AM: INFO: ***********login_test: Passed***********
+04/29/2022 09:46:43 AM: INFO: 
+
+04/29/2022 09:46:43 AM: INFO: ====== WebDriver manager ======
+04/29/2022 09:46:44 AM: INFO: Current firefox version is 99.0
+04/29/2022 09:46:44 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 09:46:45 AM: INFO: There is no [win64] geckodriver for browser 99.0 in cache
+04/29/2022 09:46:45 AM: INFO: Getting latest mozilla release info for v0.31.0
+04/29/2022 09:46:46 AM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+04/29/2022 09:46:48 AM: INFO: Driver has been saved in cache [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0]
+04/29/2022 09:52:08 AM: INFO: 
+
+04/29/2022 09:52:08 AM: INFO: ====== WebDriver manager ======
+04/29/2022 09:52:09 AM: INFO: Current firefox version is 99.0
+04/29/2022 09:52:09 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 09:52:09 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 09:54:10 AM: INFO: 
+
+04/29/2022 09:54:10 AM: INFO: ====== WebDriver manager ======
+04/29/2022 09:54:10 AM: INFO: Current firefox version is 99.0
+04/29/2022 09:54:10 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 09:54:11 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 10:30:26 AM: INFO: 
+
+04/29/2022 10:30:26 AM: INFO: ====== WebDriver manager ======
+04/29/2022 10:30:26 AM: INFO: Current firefox version is 99.0
+04/29/2022 10:30:26 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 10:30:27 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 10:34:58 AM: INFO: 
+
+04/29/2022 10:34:58 AM: INFO: ====== WebDriver manager ======
+04/29/2022 10:34:59 AM: INFO: Current firefox version is 99.0
+04/29/2022 10:34:59 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 10:34:59 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 10:35:07 AM: INFO: ***********login_test***********
+04/29/2022 10:35:18 AM: INFO: ***********login_test: Passed***********
+04/29/2022 10:39:53 AM: INFO: 
+
+04/29/2022 10:39:53 AM: INFO: ====== WebDriver manager ======
+04/29/2022 10:39:53 AM: INFO: Current firefox version is 99.0
+04/29/2022 10:39:53 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 10:39:54 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 10:40:00 AM: INFO: ***********login_test***********
+04/29/2022 10:40:13 AM: INFO: ***********login_test: Passed***********
+04/29/2022 10:48:30 AM: INFO: 
+
+04/29/2022 10:48:30 AM: INFO: ====== WebDriver manager ======
+04/29/2022 10:48:31 AM: INFO: Current firefox version is 99.0
+04/29/2022 10:48:31 AM: INFO: Get LATEST geckodriver version for 99.0 firefox
+04/29/2022 10:48:31 AM: INFO: Driver [C:\Users\tomso\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+04/29/2022 10:48:37 AM: INFO: ***********login_test***********
+04/29/2022 10:48:49 AM: INFO: ***********login_test: Passed***********
+05/02/2022 07:56:04 AM: INFO: ***********login_test***********
+05/02/2022 08:08:57 AM: INFO: ***********login_test***********
+05/02/2022 08:29:42 AM: INFO: ***********login_test***********
+05/02/2022 11:00:14 AM: INFO: ***********login_test***********
+05/02/2022 11:01:34 AM: INFO: ***********login_test***********
+05/02/2022 11:02:14 AM: INFO: ***********login_test***********
+05/02/2022 11:02:31 AM: INFO: ***********login_test: Passed***********
+05/02/2022 11:48:50 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:48:50 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:50:49 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:50:49 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:53:01 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:53:01 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:54:34 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:54:34 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:55:28 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:55:28 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:56:11 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:56:11 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:57:27 AM: INFO: ***********login_test_ddt***********
+05/02/2022 11:57:27 AM: INFO: ***********login_ddt_test***********
+05/02/2022 11:57:59 AM: ERROR: ***********login_test: Failed***********
+05/02/2022 04:18:35 PM: INFO: ***********login_test_ddt***********
+05/02/2022 04:18:35 PM: INFO: ***********login_ddt_test***********
+05/02/2022 04:23:11 PM: ERROR: ***********login_test: Failed***********
+05/02/2022 04:27:55 PM: INFO: ***********login_test_ddt***********
+05/02/2022 04:27:55 PM: INFO: ***********login_ddt_test***********
+05/02/2022 04:28:27 PM: ERROR: ***********login_test: Failed***********
+05/02/2022 04:28:49 PM: INFO: ***********login_test_ddt***********
+05/02/2022 04:28:49 PM: INFO: ***********login_ddt_test***********
+05/02/2022 04:29:22 PM: ERROR: ***********login_test: Failed***********
+05/02/2022 04:31:20 PM: INFO: ***********login_test_ddt***********
+05/02/2022 04:31:20 PM: INFO: ***********login_ddt_test***********
+05/02/2022 04:31:48 PM: INFO: ***********login_test: Passed***********
+05/03/2022 08:02:24 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:02:24 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:02:56 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:02:56 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:03:21 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:12:36 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:12:36 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:12:59 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:18:22 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:18:22 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:18:47 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:19:35 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:19:35 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:19:59 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:21:11 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:21:11 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:21:36 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:22:43 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:22:43 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:23:08 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:23:12 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017BCD4A38E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e18ab9ce804266436a056c1fbde45c7/element
+05/03/2022 08:23:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017BCD4EEEF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e18ab9ce804266436a056c1fbde45c7/element
+05/03/2022 08:23:16 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017BCD4EF2E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e18ab9ce804266436a056c1fbde45c7/element
+05/03/2022 08:26:14 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:26:14 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:26:38 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:31:48 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:31:48 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:32:05 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:33:54 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:33:54 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:34:12 AM: INFO: ***********login_test: Passed***********
+05/03/2022 08:56:38 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:56:38 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:57:28 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:57:28 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:58:02 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:58:02 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:58:35 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:58:35 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:59:29 AM: INFO: ***********login_test_ddt***********
+05/03/2022 08:59:29 AM: INFO: ***********login_ddt_test***********
+05/03/2022 08:59:57 AM: INFO: ***********login_test: Passed***********
+05/03/2022 09:01:38 AM: INFO: ***********login_test_ddt***********
+05/03/2022 09:01:38 AM: INFO: ***********login_ddt_test***********
+05/03/2022 09:02:08 AM: INFO: ***********login_test: Passed***********
+05/03/2022 09:02:40 AM: INFO: ***********login_test_ddt***********
+05/03/2022 09:02:40 AM: INFO: ***********login_ddt_test***********
+05/03/2022 09:03:11 AM: INFO: ***********login_test: Passed***********
+05/03/2022 09:03:32 AM: INFO: ***********login_test_ddt***********
+05/03/2022 09:03:32 AM: INFO: ***********login_ddt_test***********
+05/05/2022 09:54:14 AM: INFO: ***********login_test_ddt***********
+05/05/2022 09:54:14 AM: INFO: ***********login_ddt_test***********
+05/05/2022 09:55:23 AM: INFO: ***********login_test_ddt***********
+05/05/2022 09:55:23 AM: INFO: ***********login_ddt_test***********
+05/05/2022 09:56:45 AM: INFO: ***********login_test: Passed***********
+05/05/2022 09:59:35 AM: INFO: ***********login_test_ddt***********
+05/05/2022 09:59:35 AM: INFO: ***********login_ddt_test***********
+05/05/2022 09:59:49 AM: INFO: ***********login_test: Passed***********
+05/05/2022 09:59:59 AM: INFO: ***********login_test: Passed***********
+05/05/2022 10:00:07 AM: INFO: ***********login_test: Passed***********

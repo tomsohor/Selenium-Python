@@ -1,0 +1,5 @@
+.pytest_cache
+env
+pageObjects\__pycache__
+testCases\__pycache__
+utils\__pycache__

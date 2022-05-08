@@ -1,0 +1,55 @@
+1651200408396	geckodriver	INFO	Listening on 127.0.0.1:61132
+1651200729966	geckodriver	INFO	Listening on 127.0.0.1:61211
+1651200851353	geckodriver	INFO	Listening on 127.0.0.1:61243
+1651203027547	geckodriver	INFO	Listening on 127.0.0.1:61801
+1651203299626	geckodriver	INFO	Listening on 127.0.0.1:61988
+1651203302721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofileq0Uxhy"
+1651203303060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofileq0Uxhy\\search.json.mozlz4", (void 0)))
+1651203305113	Marionette	INFO	Listening on port 62016
+Read port: 62016
+1651203305214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+1651203315018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.17.250.2:7003"
+1651203318735	Marionette	INFO	Stopped listening on port 62016
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651203594349	geckodriver	INFO	Listening on 127.0.0.1:62097
+1651203597399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofile0ubtgl"
+1651203597856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofile0ubtgl\\search.json.mozlz4", (void 0)))
+1651203600275	Marionette	INFO	Listening on port 62123
+Read port: 62123
+1651203600323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651203610089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651203613877	Marionette	INFO	Stopped listening on port 62123
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1651204111859	geckodriver	INFO	Listening on 127.0.0.1:62197
+1651204114911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofileha6rEK"
+1651204115385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tomso\\AppData\\Local\\Temp\\rust_mozprofileha6rEK\\search.json.mozlz4", (void 0)))
+1651204117851	Marionette	INFO	Listening on port 62221
+Read port: 62221
+1651204117896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651204126133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.17.250.2:7003"
+1651204129574	Marionette	INFO	Stopped listening on port 62221
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
